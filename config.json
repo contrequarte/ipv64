@@ -1,0 +1,5 @@
+    {
+         "bearer_value": "your bearer value here",
+         "domain": "your ipv64 dyndns domain here",
+         "domain_token": "your domain token here"
+    }
